@@ -105,4 +105,28 @@ footer .footer-col h1 {
  	padding: 0.5rem 0;
  	text-align: center;
  }
-	
+/*RESPONSIVE CODE*/
+
+@media(max-width: 998px){
+	html{
+		font-size: 55%;
+	}
+}
+
+@media(max-width: 768px) {
+
+	html{
+		font-size: 45%;
+	}
+}
+
+@media(max-width: 650px) {
+
+	html{
+		font-size: 35%;
+	}
+}
+@media(max-width: 360px) {
+
+	html{
+		font-size: 16%;	
